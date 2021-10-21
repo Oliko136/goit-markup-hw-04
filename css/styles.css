@@ -131,6 +131,9 @@ img {
 }
 
 .hero {
+  padding-top: 200px;
+  padding-bottom: 200px;
+
   background-color: var(--secondary-bg-color);
   text-align: center;
 }
@@ -250,6 +253,7 @@ img {
 
 .filter-btns {
   margin-bottom: 50px;
+  padding-left: 0;
   list-style: none;
   display: flex;
   justify-content: center;
