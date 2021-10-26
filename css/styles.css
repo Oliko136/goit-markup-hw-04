@@ -150,11 +150,14 @@ img {
   background-repeat: no-repeat;
   background-position: center;
   max-width: 1600px;
+  margin: 0 auto;
   text-align: center;
 }
 
 .hero-title {
+  margin: 0 auto;
   margin-bottom: 30px;
+  max-width: 696px;
 
   color: var(--tertiary-text-color);
   font-weight: 900;
